@@ -16,12 +16,28 @@ Follow these steps to immerse yourself into Generative AI Storytelling
    git clone https://github.com/athul-2003/Imagery-Storyteller.git
    cd Imagery-Storyteller
    ```
-2. **Install dependencies:**
+2. **Create a new virtual environment**
+   
+   Create a new virtual environment in the same folder and activate that environment:
+   
+   If Anaconda or Miniconda is installed:
+   ```bash
+      conda create -p venv python==3.10
+      conda activate venv
+
+   ```
+   Or (For Windows )
+   ```bash
+      python -m venv myenv
+      .\myenv\Scripts\activate
+   ```
+
+3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Streamlit app:**
+4. **Run the Streamlit app:**
    ```bash
    streamlit run vision.py
    ```
