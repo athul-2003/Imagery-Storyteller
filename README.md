@@ -4,6 +4,10 @@ A LLM app developed using Gemini-pro-vision generative AI model that creates cap
 # Demo
 
 
+
+https://github.com/athul-2003/Imagery-Storyteller/assets/128019369/09a08964-ae1e-4846-89c7-52ea42c7e3c9
+
+
 # How to Run
 Follow these steps to immerse yourself into Generative AI Storytelling
 
